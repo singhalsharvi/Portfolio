@@ -1,0 +1,12 @@
+{
+  "title": "Sharvi Singhal — Portfolio",
+  "description": "Sharvi Singhal — CS student and ML/GenAI intern building applied, India-focused software: civic tech, sports AI, and travel agents.",
+  "language": "en",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
